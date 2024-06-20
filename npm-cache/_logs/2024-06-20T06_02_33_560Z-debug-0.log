@@ -1,0 +1,19 @@
+0 verbose cli /opt/homebrew/Cellar/node/22.3.0/bin/node /opt/homebrew/bin/npm
+1 info using npm@10.8.1
+2 info using node@v22.3.0
+3 silly config load:file:/opt/homebrew/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/minahpark/Desktop/ozcoding_practice/react-github-action/.npmrc
+5 silly config load:file:/Users/minahpark/.npmrc
+6 silly config load:file:/Users/minahpark/Desktop/ozcoding_practice/react-github-action/npm-global/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build"
+9 verbose logfile logs-max:10 dir:/Users/minahpark/Desktop/ozcoding_practice/react-github-action/npm-cache/_logs/2024-06-20T06_02_33_560Z-
+10 verbose logfile /Users/minahpark/Desktop/ozcoding_practice/react-github-action/npm-cache/_logs/2024-06-20T06_02_33_560Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/npm 228ms
+13 verbose cwd /Users/minahpark/Desktop/ozcoding_practice/react-github-action
+14 verbose os Darwin 23.3.0
+15 verbose node v22.3.0
+16 verbose npm  v10.8.1
+17 verbose exit 1
+18 verbose code 1
